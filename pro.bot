@@ -1,0 +1,18 @@
+{
+    "name": "pro",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3984/api/messages",
+            "id": "0c765680-8f6d-11e9-9e16-0d804b33baa7",
+            "name": "http://localhost:3984/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\dbwjd\\OneDrive\\바탕 화면\\새 폴더 (2)\\pro.bot"
+}
